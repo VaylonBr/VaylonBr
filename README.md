@@ -18,8 +18,3 @@ I make projects for fun and every day i try to improve! Feel welcome to my profi
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 <h1></h1>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaylonBr)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VaylonBr&show_icons=true)  
