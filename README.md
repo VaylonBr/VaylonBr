@@ -4,10 +4,12 @@
 
 I make projects for fun and every day i try to improve! Feel welcome to my profile :D
 
-Skills: Lua
+<h3>Programming Languages:</h3>
+<p align="left">
 
-- 🌱 I’m currently learning Html5, Css3, Java, Php, MySql 
-- 📫 How to reach me: brvaylon@gmail.com 
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+  
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaylonBr)](https://github.com/anuraghazra/github-readme-stats)
