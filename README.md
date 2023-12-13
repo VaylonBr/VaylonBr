@@ -10,5 +10,3 @@ I make projects for fun and every day i try to improve! Feel welcome to my profi
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
   
 </p>
-
-<h1></h1>
