@@ -11,6 +11,13 @@ I make projects for fun and every day i try to improve! Feel welcome to my profi
   
 </p>
 
+<h3>Markup Languages:</h3>
+<p align="left">
+
+![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  
+</p>
+
 <h3>Learning Languages:</h3>
 <p align="left">
 
