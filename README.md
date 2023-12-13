@@ -11,7 +11,7 @@ I make projects for fun and every day i try to improve! Feel welcome to my profi
   
 </p>
 
-<h3>Learning Languages:</h3>
+<h4>Learning Languages:</h4>
 
 <p align="left">
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
