@@ -8,11 +8,6 @@ I make projects for fun and every day i try to improve! Feel welcome to my profi
 <p align="left">
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
-</p>
-
-<h4>Learning Languages:</h4>
-
-<p align="left">
-  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 </p>
