@@ -11,3 +11,11 @@ I make projects for fun and every day i try to improve! Feel welcome to my profi
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   
 </p>
+
+<h3>Programming Languages:</h3>
+<p align="left">
+
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  
+</p>
