@@ -12,9 +12,3 @@ I make projects for fun and every day i try to improve! Feel welcome to my profi
 </p>
 
 <h1></h1>
-
-<div align="left">
-<img style="width:370px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VaylonBr&layout=compact&theme=radical">
-</div>
-
-<h1></h1>
