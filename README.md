@@ -28,5 +28,5 @@ I make projects for fun and every day i try to improve! Feel welcome to my profi
 
 <div align="left">
 <img style="width:350px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VaylonBr&show_icons=true&theme=radical">
-  <img style="width:370px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VaylonBr&layout=compact&theme=radical">
+  <img style="width:370px;" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrVaylon&layout=compact&theme=radical">
 </div>
