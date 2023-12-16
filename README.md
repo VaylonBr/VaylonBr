@@ -19,6 +19,6 @@ I make projects for fun and every day i try to improve! Feel welcome to my profi
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 </p>
 
-<div align="center">
+<div align="left">
 <img style="width:350px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VaylonBr&show_icons=true&theme=radical">
 </div>
