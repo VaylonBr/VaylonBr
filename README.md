@@ -17,7 +17,7 @@ I make projects for fun and every day i try to improve! Feel welcome to my profi
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VaylonBr&hide=javascript,css,scss,html&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaylonbr&hide=javascript,css,scss,html&theme=tokyonight)
 </p>
 
 <div align="center">
