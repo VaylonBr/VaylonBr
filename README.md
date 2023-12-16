@@ -19,6 +19,13 @@ I make projects for fun and every day i try to improve! Feel welcome to my profi
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 </p>
 
+<h3>Tools:</h3>
+
+<p align="left">
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+</p>
+
 <div align="left">
 <img style="width:350px;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VaylonBr&show_icons=true&theme=radical">
 </div>
